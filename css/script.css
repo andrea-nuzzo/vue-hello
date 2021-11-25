@@ -3,3 +3,28 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: #1D1128;
+}
+
+.container{
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.container h1{
+    margin: 50px;
+    font-size: 60px;
+    color: #5941A9;
+    font-family: 'Fredericka the Great', cursive;
+   /*#514F59*/ 
+}
+
+.container img{
+    width: 500px;
+}
